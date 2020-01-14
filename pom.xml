@@ -12,7 +12,6 @@
       <id>lib</id>
       <url>${project.baseUri}lib</url>
       <releases>
-        <checksumPolicy>ignore</checksumPolicy>
       </releases>
     </repository>
   </repositories>
